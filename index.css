@@ -3,16 +3,23 @@ header {
   color: white;
   text-align: center;
   padding: 10px 15px;
-  margin: 0 0 20px 0;
 }
 
-section{
+section {
   float: left;
-  padding-right: 100px;
+  padding-right: 30px;
+
 }
+
+div{
+  overflow: auto;
+}
+
 p {
   padding-left: 20px;
   float: right;
+  font-size: 15px;
+  width: 500px;
 }
 
 .test{
